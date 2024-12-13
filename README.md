@@ -46,6 +46,12 @@
 </div>
 
 ###
+
+<div align="center">
+  <img height="400" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
+</div>
+
+###
 <!--
 **TalaatGamal/TalaatGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
