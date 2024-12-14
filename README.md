@@ -46,8 +46,10 @@
 </div>
 
 ###
-
+<!--
 <img align="left" height="190" src="https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif"/>
+-->
+![GIF](https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif)
 
 ###
 
