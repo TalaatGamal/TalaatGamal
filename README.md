@@ -51,7 +51,7 @@
 
 <div align="center">
   <img height="200px" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
-  <img height="200px" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
+  <img height="200px" src="https://i.gifer.com/embedded/download/Qw4U.gif"  />
 </div>
 
 ###
