@@ -51,11 +51,10 @@
 <img align="left" height="190" src="https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif"/>
 -->
 <img align="left" height="190" src="https://miro.medium.com/v2/resize:fit:1280/1*YTVf_dwF-5L_AhbVWie4wg.gif"/>
-<img align="left" height="190" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
 <img align="left" height="190" src="https://media4.giphy.com/media/o0vwzuFwCGAFO/giphy.gif?cid=6c09b952eh76fcpimv9xyq8f5u2wrw4oon3uqbkqsuwx44ui&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
     
 ###
-
+<img align="left" height="190" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
 <img align="right" height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
 
 ###
