@@ -48,7 +48,7 @@
 ###
 
 <div align="center">
-  <img height="400" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
+  <img height="250" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
 </div>
 
 ###
