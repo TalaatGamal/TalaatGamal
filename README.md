@@ -50,7 +50,7 @@
 <!--
 <img align="left" height="190" src="https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif"/>
 -->
-<img align="left" height="190" src="https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif"/>
+<img align="left" height="190" src="https://miro.medium.com/v2/resize:fit:1280/1*YTVf_dwF-5L_AhbVWie4wg.gif"/>
     
 ###
 
