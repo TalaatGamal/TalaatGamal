@@ -50,7 +50,11 @@
 <br clear="both">
 
 <div align="center">
-  <img height="400px" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
+  <img height="200px" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
+</div>
+
+<div align="center">
+  <img height="200px" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
 </div>
 
 ###
