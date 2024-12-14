@@ -46,9 +46,9 @@
 </div>
 
 ###
-
+<!--
 <img align="right" height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"  />
-
+-->
 ###
 
 <img align="left" height="190" src="https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif"  />
