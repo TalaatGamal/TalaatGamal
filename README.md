@@ -46,9 +46,12 @@
 </div>
 
 ###
+<div align="center">
 
-<img align="right" height="190" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
-<img align="left" height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
+<img align="left" height="190" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
+<img align="right" height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
+
+</div>
 
 ###
 <br clear="both">
