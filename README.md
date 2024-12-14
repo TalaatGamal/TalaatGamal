@@ -1,5 +1,5 @@
 <h2 align="left">Hi🤸‍♀️⛓️‍💥🩵, I'm Talaat, a software engineer from Egypt</h2>
-<h3 align="left" text-decoration="underline">Email : talaatgamal.dev@gmail.com</h3>
+<h3 align="left">Email : talaatgamal.dev@gmail.com</h3>
 <h3 align="left">WhatsApp : +201147651320</h3>
 
 ###
