@@ -46,16 +46,18 @@
 </div>
 
 ###
+
 <!--
 <img align="left" height="190" src="https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif"/>
 -->
-![GIF](https://www.wvnstv.com/wp-content/uploads/sites/76/2023/02/image0-1.gif)
-
+<img align="left" height="190" src="https://www.galvanizeaction.org/wp-content/uploads/2022/06/Wow-gif.gif"/>
+    
 ###
 
 <img align="right" height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
 
 ###
+
 <!--
 **TalaatGamal/TalaatGamal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
