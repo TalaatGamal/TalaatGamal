@@ -56,7 +56,9 @@
   <!--
 <img  height="200" src="https://media3.giphy.com/media/39wFTeHR6424Pjw8TO/200w.gif?cid=82a1493bs058kci9j08inr0qnk9ile6w82e06iku7w383a1s&ep=v1_gifs_related&rid=200w.gif&ct=g"/>
   -->
+  <!--
 <img  height="200" src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif"/>
+  -->
 <img  height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
 
 </div>
