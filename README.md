@@ -49,8 +49,9 @@
 
 ###
 <div align="center">
-
+<!--
 <img  height="200" src="https://i.pinimg.com/originals/c5/9a/d2/c59ad2bd4ad2fbacd04017debc679ddb.gif"/>
+-->
 <img  height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
 
 </div>
