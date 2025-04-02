@@ -1,4 +1,4 @@
-<h2 align="left">Hi 🩵, I'm Talaat, a Software Engineer from Egypt</h2>
+<h2 align="left">Hi 🩵, I'm Talaat, a Software Engineer</h2>
 <h3 align="left">Email : talaatgamal.dev@gmail.com</h3>
 <h3 align="left">WhatsApp : +201147651320</h3>
 
