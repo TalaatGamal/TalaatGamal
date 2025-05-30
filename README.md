@@ -58,7 +58,7 @@
   <!--
 <img  height="200" src="https://media.tenor.com/CD0Uav1XwdYAAAAM/twitter-blue-checkmark-twitter-checkmark.gif"/>
   -->
-<img  height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/>
+<!-- <img  height="200" src="https://talaatgamal.github.io/My-Portfolio/images/equalv.png"/> -->
 
 </div>
 
